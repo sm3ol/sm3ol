@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sm3ol (Ismail Mohamed)
+- 👋 Hi, I’m Ismail Mohamed
 - 👀 I’m interested in embedded systems, FPGA design, VLSI, and hardware acceleration.
 - 🌱 I’m currently learning advanced System Verilog, ASIC design, and physical verification techniques.
 - 💞️ I’m looking to collaborate on projects involving FPGA applications, digital design, and hardware-software integration.
